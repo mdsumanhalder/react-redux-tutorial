@@ -98,8 +98,6 @@
 
 ## redux-axios-middleware, redux-persist npm packages: need to have a look
 
-# Note: difficult videos: v.n.13 ,v.n.25
-
 # Questions:
 
 - why need ...state like this and mean why need to copy
