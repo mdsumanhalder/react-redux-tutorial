@@ -35,7 +35,8 @@
 3. Third principle:
 
 - To specify how the state tree is transformed by actions, you write pure reducers or pure javascript functions.
-
+## Store
+- only 1 store for one app.Store is readonly, for updating store, we can only do it through reduce
 ## Actions:
 
 - The only way our application can interact with the store
